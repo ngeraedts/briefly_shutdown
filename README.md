@@ -1,19 +1,9 @@
 # BrieflyShutdown
 
-**TODO: Add description**
+A simple application to outline an issue with CargoSense/briefly
 
-## Installation
+## Steps to reproduce the issue
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `briefly_shutdown` to your list of dependencies in `mix.exs`:
+Run `run_scenario.sh`. :)
 
-```elixir
-def deps do
-  [{:briefly_shutdown, "~> 0.1.0"}]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/briefly_shutdown](https://hexdocs.pm/briefly_shutdown).
-
+Tested on Erlang 19.3.1 and Elixir 1.4.2
